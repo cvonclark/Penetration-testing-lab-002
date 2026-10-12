@@ -182,35 +182,31 @@ Add the screenshots collected during testing.
 
 **Evidence 001 — User and Sudo Enumeration**
 
-![User and Sudo Enumeration](evidence/001-user-enumeration.png)
 
 <img width="433" height="253" alt="001-user-enumeration" src="https://github.com/user-attachments/assets/b9845241-41a6-4a82-86fb-d92ff5ec5cea" />
 
 
 **Evidence 002 — Sudo Privilege Validation**
 
-![Sudo Privilege Validation](evidence/002-sudo-validation.png)
 
 <img width="412" height="234" alt="002-sudo-privilege-validation" src="https://github.com/user-attachments/assets/5fb4d206-654f-4949-890e-63ef7e446c3b" />
 
 
 **Evidence 003 — SUID Enumeration**
 
-![SUID Enumeration](evidence/003-suid-enumeration.png)
 
 <img width="365" height="244" alt="003-suid-enumeration" src="https://github.com/user-attachments/assets/03b136df-195e-4ba0-b565-8b17262ac86e" />
 
 
 **Evidence 004 — Nmap Permissions and Version**
 
-![Nmap Version and Permissions](evidence/004-nmap-permissions.png)
+
 
 <img width="388" height="131" alt="004-nmap-permissions" src="https://github.com/user-attachments/assets/2a2dec80-8122-42f3-b3f0-506cf30d1c2e" />
 
 
 **Evidence 005 — Nmap Privilege Escalation**
 
-![Nmap Privilege Escalation](evidence/005-nmap-exploitation.png)
 
 <img width="416" height="168" alt="005-nmap-exploitation" src="https://github.com/user-attachments/assets/9d050023-46fc-481e-869d-4ceba984c70d" />
 
