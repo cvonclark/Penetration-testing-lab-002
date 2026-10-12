@@ -1,7 +1,8 @@
 # Penetration-testing-lab-002
 Project 002: Network Enumeration &amp; Exploitation
 
-# Penetration Testing Lab 002
+# Project 002: Linux Privilege Escalation — SUID Enumeration, Nmap Misconfiguration, and Root-Level Command Execution
+
 ## Linux Privilege Escalation — SUID Nmap Misconfiguration
 
 ### 1. Objective
